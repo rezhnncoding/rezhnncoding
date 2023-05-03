@@ -3,8 +3,6 @@
   <img src=https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif width="300"/>
 </div>
 
----
-
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=WhatsApp&logoColor=green" alt="LinkedIn Badge"/>
@@ -32,7 +30,6 @@
   hey there
   <img src="https://media.giphy.com/media/LPgFwCQg4HQBvPihcn/giphy.gif" width="40"/>
 </h1>
-
 <div align="center">
   <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="300" height="300"/>
   
