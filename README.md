@@ -6,10 +6,32 @@
 </h1>
 
 
+### 🧑‍💻Technologies :
+
+<div id="badges">
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=blue" alt="windows Badge"/>
+        </a>
+   <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=blue" alt="windows Badge"/>
+        </a>
+</div>
+
+  </a>
+  
+
+
+  ---
+  
+
+
 ### :hammer_and_wrench: Programming languages :
   
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="windows" alt="windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -39,7 +61,7 @@
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="windows Badge"/>
     <a href="">
   <img src="https://komarev.com/ghpvc/?username=rezhnncoding&style=flat-square&color=blue" alt=""/>
         </a>
