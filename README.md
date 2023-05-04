@@ -1,12 +1,12 @@
-### 
-
-<h1>
- 
-  <img src="https://media.giphy.com/media/LPgFwCQg4HQBvPihcn/giphy.gif" width="150px">
-</h1>
+### 👋hi there im rezhnncoding
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rezhnncoding&theme=dark&background=000000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezhnncoding&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezhnncoding&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 🧑‍💻Technologies :
+
+
+### Technologies:
 
 <div id="badges">
   <a href="your-twitter-URL">
@@ -25,7 +25,7 @@
   
 
 
-### :hammer_and_wrench: Programming languages :
+### Programming languages:
   
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="windows Badge"/>
+    <img src="https://img.shields.io/badge/twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="twitter Badge"/>
     <a href="">
   <img src="https://komarev.com/ghpvc/?username=rezhnncoding&style=flat-square&color=blue" alt=""/>
         </a>
